@@ -4,7 +4,7 @@ import java.awt.*;
 import java.util.ArrayList;
 
 // Represents a car obstacle in the game
-public class Car {
+public class Car { 
  
   private int x, y, w, h, s; // Position (x, y), size (width, height), and speed
   Image image; // Car image
